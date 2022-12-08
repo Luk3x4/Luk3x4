@@ -1,7 +1,7 @@
-🌌 About Me:
+<h3>🌌 About Me: </h3>
 <hr>
-<h1>-- 👽 14 Years Old </h1>
-<h1>-- 💻 Currently Learning Full Stack Development </h1>
+<p>-- 👽 14 Years Old </p>
+<p>-- 💻 Currently Learning Full Stack Development </p>
 ✔️ Social Medias:
 <hr>
 <div id="badges">
