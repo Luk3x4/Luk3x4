@@ -1,7 +1,7 @@
 # 🌌 About Me:
 
-<p>-- 👽 14 Years Old </p>
-<p>-- 💻 Currently Learning Full Stack Development </p>
+👽 14 Years Old
+💻 Currently Learning Full Stack Development
 ✔️ Social Medias:
 <hr>
 <div id="badges">
