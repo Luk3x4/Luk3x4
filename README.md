@@ -1,5 +1,5 @@
-<h3>🌌 About Me: </h3>
-<hr>
+#🌌 About Me:
+
 <p>-- 👽 14 Years Old </p>
 <p>-- 💻 Currently Learning Full Stack Development </p>
 ✔️ Social Medias:
