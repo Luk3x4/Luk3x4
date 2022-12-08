@@ -1,8 +1,9 @@
 # 🌌 About Me:
 
-👽 14 Years Old
+👽 14 Years Old <br>
 💻 Currently Learning Full Stack Development
-✔️ Social Medias:
+
+# ✔️ Social Medias:
 <hr>
 <div id="badges">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
